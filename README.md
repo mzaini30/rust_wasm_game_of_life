@@ -1,7 +1,7 @@
 ## 🚴 Usage
 
 ```
-git clone this project
+git clone --depth=1 https://github.com/alfianguide/rust_wasm_game_of_life
 ```
 
 ### 🛠️ Build with `wasm-pack build`
